@@ -4,8 +4,8 @@
 - [Description](#Description)
 - [License](#license)
 - [Technologies Used](#Technologies-Used)
+- [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
-- [Sources](#sources)
 - [Contributors](#contributors)
 - [Questions](#questions)
 
@@ -35,33 +35,11 @@ Manifest
 This application is simple to use. The user can enter the category of the expense. They can then add the amount. After that, they can select to either add or subtract that amount. The chart will update.
 
 ## Screenshots
-This is the initial screen that has the information about the last workout.
-![Mainpage](./images/FitnessTrackHome.png)
+This is the page that shows the app is offline and items are still added.
+![Page showing total in account and transactions](./images/budgettrackeroffline.png)
 
-Once the user clicks a workout option, this page shows up where the user can pick the type of exercise.
-![Page to Add Your Exercise with a drop down menu for exercise type](./images/FitnessTrackerExerciseMain.png)
-
-Once they click on Exercise Type, the user can select Resistance or Cardio.
-![Add Your Exercise showing exercise types](./images/FitnessTrackAddExercise.png)
-
-The buttons Continue Workout and New Workout are not active until information is added.
-![Add Your Exercise with deactivated buttons](./images/FitnessTrackCardioBlank.png)
-
-The Cardio option allows the user to type the name, distance, and duration. From there, they can click Complete which will take the user back to the main page or Add Exercise where another exercise can be added.
-![Cardio log with input fields](./images/FitnessTrackCardioAdd2.png)
-
-The Resistance option allows the user to type the name, weight, sets, reps, and duration. From there, the user can click Complete which will them them back to the main page or Add Exercise where another exercise can be added.
-![Resistance log with input fields](./images/FitnessTrackResistance.png)
-
-
-This is the view after two cardio workouts were added. 
-![Fitness tracker summary of two cardio workouts](./images/FitnessTrackAfterCardio.png)
-
-This is the view after two cardio and one resistance workouts were added. Here, weights lifted, sets performed and reps performed are added.
-![Fitness tracker summary of all three workouts](./images/FitnessTrackAfterAll.png)
-
-This is the dashboard that shows workout duration and pounds lifted.
-![Fitness Tracker Dashboard showing two charts.](./images/FitnessTrackWorkoutDashboard.png)
+This is another view of the application working and it's offline.
+![Page showing total amount in budget and graph](./images/budgettrackoff.png)
 
 ## Contributors
 - Stephanie Davis
