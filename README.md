@@ -36,7 +36,9 @@ Manifest
 This application is simple to use. The user can enter the category of the expense. They can then add the amount. After that, they can select to either add or subtract that amount. The chart will update.
 
 ## Screenshots
+This is the main page before information is added. ![Main dashboard](./images/budgetTrackerMain.png)
 This is the page that shows the app is offline and items are still added.
+
 ![Page showing total in account and transactions](./images/budgettrackeroffline.png)
 
 This is another view of the application working and it's offline.
@@ -45,6 +47,7 @@ This is another view of the application working and it's offline.
 ## Links
 Here is the link to the deployed application
 [Budget Tracker](https://enigmatic-woodland-01661.herokuapp.com/)
+
 ## Contributors
 - Stephanie Davis
 
